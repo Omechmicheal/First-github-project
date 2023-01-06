@@ -1,0 +1,22 @@
+
+label {
+    color: rosybrown;}
+    
+
+input {
+    border-color:rgb(255, 255, 255);
+    border-bottom: 1cm;
+    border-radius: 0.3cm;
+    margin-bottom: 0.3cm;}
+body{
+    background-color: beige;
+    background-position: center;}
+
+form{
+    align-items: center;
+    width: 50px;
+    margin: 12% auto;
+    padding: 50px 0;
+    text
+    box-shadow: 0 0 20px 2px rgba(0,0,0,0,5);
+}
